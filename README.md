@@ -1,44 +1,23 @@
-## Hi there 👋
+## Hi I'm Irina 👋
 
-<!--
-**samka-bogomola-02** 
-<!--header-->
-<table>
-  <tr><td colspan="2"><a href="/README.md#%EF%B8%8F-templates">← Back to templates index</a></td></tr>
-  <tr><th colspan="2"><h3>📙 Terminal template</h3></th></tr>
-  <tr><td colspan="2" align="center"><p>A template mimicking a SSH session.</p>
-</td></tr>
-  <tr>
-    <th rowspan="3">Supported features<br><sub><a href="metadata.yml">→ Full specification</a></sub></th>
-    <td><a href="/source/plugins/screenshot/README.md" title="📸 Website screenshot">📸</a> <a href="/source/plugins/gists/README.md" title="🎫 Gists">🎫</a> <a href="/source/plugins/isocalendar/README.md" title="📅 Isometric commit calendar">📅</a> <a href="/source/plugins/languages/README.md" title="🈷️ Languages activity">🈷️</a> <a href="/source/plugins/lines/README.md" title="👨‍💻 Lines of code changed">👨‍💻</a> <a href="/source/plugins/pagespeed/README.md" title="⏱️ Google PageSpeed">⏱️</a> <a href="/source/plugins/traffic/README.md" title="🧮 Repositories traffic">🧮</a></td>
-  </tr>
-  <tr>
-    <td><code>👤 Users</code> <code>👥 Organizations</code></td>
-  </tr>
-  <tr>
-    <td><code>*️⃣ SVG</code> <code>*️⃣ PNG</code> <code>*️⃣ JPEG</code> <code>#️⃣ JSON</code></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.terminal.svg" alt=""></img>
-      <img width="900" height="1" alt="">
-    </td>
-  </tr>
-</table>
-<!--/header-->
+I am a developer with experience in Java and SQL. I love creating web applications and working with data.
 
-## ℹ️ Examples workflows
+**Social Media:**
+- [LinkedIn](https://www.linkedin.com/in/irina-bogomolova-37200b334/)
+- [Telegram](https://t.me/bogomolovaira)
 
-<!--examples-->
-```yaml
-name: Example
-uses: lowlighter/metrics@latest
-with:
-  template: terminal
-  filename: metrics.terminal.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: header, metadata
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samka-bogomola-02&show_icons=true&theme=radical)
 
-```
-<!--/examples-->
+**Technologies and Tools:**
+- Programming Languages: Java, SQL
+- Frameworks: Spring, Hibernate, JUnit
+- Tools: Maven, Gradle, Git, Docker, Kafka, Mockito
 
+**Some of my projects:**
+- [Makstor](https://github.com/samka-bogomola-02/makstoreshop) - Makstor is a web application on Telegram that serves as an online store for electronic cigarettes. The service allows administrators to add, edit, and delete products with various specifications and images through a Telegram bot. Users can easily create a shopping cart and place orders at wholesale and retail prices. All orders are then sent to the administrator via a separate bot in the form of an Excel file.
+- [BankStar-Service](https://github.com/samka-bogomola-02/BankStar-service) - BankStar-Service is a microservice that functions as a marketing system, offering recommendations for banking products to customers based on specific criteria formulated as dynamic rules. These recommendations are displayed in a mobile app with suggestions like, "Check out our new advantageous loan."
+The app also features a Telegram bot that provides personalized recommendations to users, addressing them by name. To enhance efficiency, the system caches database queries and maintains detailed statistics on the triggering of dynamic rules.
+In this way, BankStar-Service delivers relevant and personalized offers to customers, improving their interaction with banking products.
+
+**Contact Me:**
+- Email: ibogomolllova@gmail.com
