@@ -5,14 +5,14 @@
 - 💻 I love creating web applications and working with data.
 - 📚 Avid reader and lifelong learner, always eager to explore new technologies and methodologies.
 
+- - ## GitHub Stats
+![Inna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibogomolova&show_icons=true&theme=radical)
+
 ## Skills
 - **Languages**: Java, SQL
 - **Frameworks**: Spring, Hibernate, JUnit
 - **Tools**: Maven, Gradle, Git, Mockito
 - **Databases**: PostgreSQL
-
-- ## GitHub Stats
-![Inna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibogomolova&show_icons=true&theme=radical)
 
 ## Projects
 - [Makstor](https://github.com/samka-bogomola-02/makstoreshop) - Makstor is a web application on Telegram that serves as an online store for electronic cigarettes. The service allows administrators to add, edit, and delete products with various specifications and images through a Telegram bot. Users can easily create a shopping cart and place orders at wholesale and retail prices. All orders are then sent to the administrator via a separate bot as an Excel file.
