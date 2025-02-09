@@ -8,7 +8,7 @@
 ## Skills
 - **Languages**: Java, SQL
 - **Frameworks**: Spring, Hibernate, JUnit
-- **Tools**: Maven, Gradle, Git, Docker, Kafka, Mockito
+- **Tools**: Maven, Gradle, Git, Mockito
 - **Databases**: PostgreSQL
 
 ## Projects
