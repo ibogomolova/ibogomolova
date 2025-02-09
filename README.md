@@ -11,7 +11,6 @@
 - **Tools**: Maven, Gradle, Git, Mockito
 - **Databases**: PostgreSQL
 
-
 ## Projects
 - [Makstor](https://github.com/samka-bogomola-02/makstoreshop) - Makstor is a web application on Telegram that serves as an online store for electronic cigarettes. The service allows administrators to add, edit, and delete products with various specifications and images through a Telegram bot. Users can easily create a shopping cart and place orders at wholesale and retail prices. All orders are then sent to the administrator via a separate bot as an Excel file.
 - [BankStar-Service](https://github.com/samka-bogomola-02/BankStar-service) - BankStar-Service is a microservice that functions as a marketing system, offering recommendations for banking products to customers based on specific criteria formulated as dynamic rules. These recommendations are displayed in a mobile app with suggestions like, "Check out our new advantageous loan."
