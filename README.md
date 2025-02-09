@@ -5,9 +5,6 @@
 - 💻 I love creating web applications and working with data.
 - 📚 Avid reader and lifelong learner, always eager to explore new technologies and methodologies.
 
-- - ## GitHub Stats
-![Inna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibogomolova&show_icons=true&theme=radical)
-
 ## Skills
 - **Languages**: Java, SQL
 - **Frameworks**: Spring, Hibernate, JUnit
@@ -19,6 +16,9 @@
 - [BankStar-Service](https://github.com/samka-bogomola-02/BankStar-service) - BankStar-Service is a microservice that functions as a marketing system, offering recommendations for banking products to customers based on specific criteria formulated as dynamic rules. These recommendations are displayed in a mobile app with suggestions like, "Check out our new advantageous loan."
 The app also features a Telegram bot that provides personalized recommendations to users, addressing them by name. To enhance efficiency, the system caches database queries and maintains detailed statistics on the triggering of dynamic rules.
 In this way, BankStar-Service delivers relevant and personalized offers to customers, improving their interaction with banking products.
+
+- - ## GitHub Stats
+![Inna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibogomolova&show_icons=true&theme=radical)
 
 ## Get in Touch
 - 📧 Email: [ibogomolllova@gmail.com](mailto:inna.bogomolova@example.com)
