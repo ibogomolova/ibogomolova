@@ -11,7 +11,6 @@
 - **Tools**: Maven, Gradle, Git, Mockito
 - **Databases**: PostgreSQL
 
-- ![My contributions](https://github.com/ibogomolova/github-contribution-grid-snake.svg)
 
 ## Projects
 - [Makstor](https://github.com/samka-bogomola-02/makstoreshop) - Makstor is a web application on Telegram that serves as an online store for electronic cigarettes. The service allows administrators to add, edit, and delete products with various specifications and images through a Telegram bot. Users can easily create a shopping cart and place orders at wholesale and retail prices. All orders are then sent to the administrator via a separate bot as an Excel file.
